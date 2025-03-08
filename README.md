@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nithin
 - 👀 I’m interested in web dev, pentesting, meta.
-- 🌱 I’m a sophomore in cyber security 
+- 🌱 I’m a Senior in B.Tech cyber security 
 - 📫 reach me @amiable_juggernaut
 
 <!---
