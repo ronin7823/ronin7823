@@ -1,5 +1,5 @@
 # **Hi there, I'm Nithin! 👋**
-Cybersecurity Engineer | AppSec | DFIR | Offensive Researcher
+Cybersecurity Engineer | CTF Player | AppSec | DFIR | Offensive Researcher
 
 🔐 About Me <br>
 Master’s student at University of Maryland. I'm a cybersecurity engineer specializing in application security, digital forensics, and threat analysis. I build security tools, break things ethically, and design systems that defend against real-world attacks.
